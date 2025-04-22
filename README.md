@@ -29,7 +29,7 @@ Pipeline para coleta, processamento e armazenamento de dados de criptomoedas da 
 Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/FlavioBaldissera/cripto-currencies-pipeline.git
 cd crypto-data-pipeline
 ```
 
